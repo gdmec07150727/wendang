@@ -1,0 +1,6 @@
+/* components/my-component.wxss */
+.iii{
+  font-size: 50rpx;
+  color: red;
+  border:solid 1px;
+}
